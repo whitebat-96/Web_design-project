@@ -10,3 +10,5 @@ Website displays :
 2.Fantasy Forum  
 3.Fantasy Market  
 4.Fantasy News  
+
+Note : The images are taken from google.
